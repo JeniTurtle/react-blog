@@ -1,0 +1,21 @@
+.app {
+    font-size: 16px;
+    background-color: #323232;
+    float: left;
+    width: 100%;
+
+    .SectionMain {
+      width: 90%;
+      margin: 50px auto;
+      overflow: hidden;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
+

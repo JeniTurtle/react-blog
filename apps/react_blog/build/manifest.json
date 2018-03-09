@@ -1,0 +1,24 @@
+{
+  "blog": {
+    "js": "/react_blog/build/chunk.blog.de6dbf30.js"
+  },
+  "home": {
+    "js": "/react_blog/build/chunk.home.d3864bad.js"
+  },
+  "demo": {
+    "js": "/react_blog/build/chunk.demo.3fc0f9a5.js"
+  },
+  "about": {
+    "js": "/react_blog/build/chunk.about.f3e4d72e.js"
+  },
+  "manifest": {
+    "js": "/react_blog/build/manifest.45320390.js"
+  },
+  "vendor": {
+    "js": "/react_blog/build/vendor.169b6104.js"
+  },
+  "bundle": {
+    "js": "/react_blog/build/bundle.25bdb85d.js",
+    "css": "/react_blog/build/bundle.3fd757b3.css"
+  }
+}

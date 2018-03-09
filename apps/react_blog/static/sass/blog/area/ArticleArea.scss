@@ -1,0 +1,25 @@
+.articleArea {
+  width: 75%;
+  float: left;
+
+  .banner {
+    width: 98%;
+    height: 110px;
+    border-bottom: 1px solid rgba(0,0,0,.65);
+    background-color: #fff;
+
+    h2 {
+      font-size: 16px;
+      padding-left: 20px;
+      line-height: 50px;
+      font-weight: bold;
+    }
+
+    p {
+      font-size: 14px;
+      padding-left: 20px;
+      line-height: 50px;
+      color: rgba(0,0,0,.65);
+    }
+  }
+}
